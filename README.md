@@ -20,7 +20,7 @@ A simple command-line To-Do List application built using Python.
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/Todo-List-App.git
+git clone [https://github.com/yourusername/Todo-List-App.git](https://github.com/ritvik250111/todo_list.git)
 ```
 
 2. Navigate to the project folder.
